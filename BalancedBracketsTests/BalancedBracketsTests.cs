@@ -23,6 +23,7 @@ namespace BalancedBracketsTests
         {
             Assert.IsFalse(BalancedBrackets.HasBalancedBrackets("]["));
         }
-        []
+        [TestMethod]
+        public void 
     }
 }
